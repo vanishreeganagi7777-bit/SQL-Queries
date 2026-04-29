@@ -4,7 +4,7 @@ use tech;
 select * from employee;
 
 insert into employee values
-(101, 'Jan', 'Levison', '1961-05-11', 'F', 110000, null, null);
+(101, 'Jan', 'Levison', '1961-05-11', 'F', 110000, null, null);<br>
 insert into employee values
 (102, 'Michael', 'Scott', '1964-03-15', 'M',75000, null, null);
 insert into employee values
